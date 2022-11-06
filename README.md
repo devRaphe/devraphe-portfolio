@@ -1,7 +1,8 @@
 # devraphe Portfolio
 
-## Getting Started
-This portfolio is a simple app that contains webviews to my external links and url launcher to be able to dial my number, It supports two languages, English and french and English being the default language.
+##Description
+This portfolio is a simple app that contains webviews to my external links and url launcher to be able to dial my number and to send me an email.
+It supports two languages, English and french and English being the default language.
 
 It also allow the user to select which theme mode they would prefer.
 

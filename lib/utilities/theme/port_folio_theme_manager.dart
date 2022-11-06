@@ -16,7 +16,7 @@ class PortFolioTheme {
       );
 
   static final ColorScheme _darkColorScheme = const ColorScheme.dark().copyWith(
-    primary: Colors.white,
+    primary: const Color(0xffea5e39),
     secondary: Colors.grey,
     background: const Color(0xffea5e39).withOpacity(0.90),
     surface: Colors.white,
