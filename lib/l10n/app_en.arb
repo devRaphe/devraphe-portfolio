@@ -1,0 +1,36 @@
+{
+    "language": "English",
+    "@language":{
+        "description": "The current Language"
+    },
+    "profileSummary": "Software engineer, Majorly focusing on Mobile Engineering with 2-year experience in cross-platform mobile development(Flutter) Looking for opportunities as a software developer with an expert team of developers who will help advance my career progression to senior positions in the future.",
+    "@profileSummary":{
+
+            "description": "   Profile Summary"
+    },
+
+    "profile": "Profile",
+    "@profile":{
+        "description": "Profile"
+    },
+
+    "hireMe": "Hire Me",
+    "@hireMe":{
+        "description": "Hire Me"
+    },
+    
+    "mobileEngineer": "Mobile Engineer",
+    "@mobileEngineer":{
+        "description": "Mobile Engineer"
+    },
+
+    "bio": "Bio",
+    "@bio":{
+        "description": "Bio"
+    },
+
+    "socialNetwork": "Social Network",
+    "@socialNetwork":{
+        "description": "Social Network"
+    }
+}
